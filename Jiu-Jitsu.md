@@ -1,6 +1,15 @@
 # Jiu-Jitsu
 
-How to read this document
+How to read this document:
+
+Each title represents a primary position, with sub-positions beneath their heading.
+
+The following symbols are used in the document:
+
+- `->` Delimeter showing that the following technique is listed in another section.  This can be viewed as linking systems.
+- `.` Delimeter used to separate steps in a technique (steps are either sequential or simultaneous)
+- `|`  Or symbol.  This separates two techniques that can be substituted for one another.
+- `{text}:` This is text that shows what the opponent is doing which is the trigger for the technique
 
 ---
 
@@ -36,11 +45,14 @@ How to read this document
 
 ## Half Guard
 
-### Passing
+### Low Knee Shield
 
-    Low Knee Shield First Position:  Right arm goes behind partner's hips (hand on floor, elbow behind hip) .  Left leg posts out .  Head blocking shoulder .  Drop right hip to crush top leg . Sprawl right leg back . 
-    
-    Low Knee Shield: Right Hand by partner's hip (elbow behind) . Left leg posted out . Head blocking shoulder . Drop right hip to crush top leg . Sprawl right leg back . Underhook with right arm . Cradle neck grip with left hand | Let right hand grab far trap . Use grip to pin their heel to their butt with your hip . Right leg moves forward . Left leg pummels behind opp leg . Crossface + Right underhook . Stack your right hip on top of theirs . Raise knee up, then cut down insdie partner's hip . Walk back to turn knees away
+#### First Position
+    Right arm goes behind partner's hips (hand on floor, elbow behind hip) .  Left leg posts out .  Head blocking shoulder .  Drop right hip to crush top leg . Sprawl right leg back . 
+##### Next Steps
+    Standard: Underhook with the right arm . Scoop the neck with left hand . Walk hips forward to pin their heel to butt when combined with the two grips . Pummel left leg inside to extend their bottom leg . Establish head and arm . Stack your hip on theirs . Cut your top knee down to their hip to complete the pass
+
+    Blocks Underhook:  Grab their low trap with your right arm to secure position . Pass is now the same as above except left elbow goes behind their head and right arm punches inside the hip
 
 ---
 
@@ -112,20 +124,13 @@ How to read this document
 
 ---
 
-## Split Guard (Cross or Regular Hamstring Step)
+## Split Guard (Cross or Regular Hamstring Step) (Passing)
 
 ---
 
     Post on shoulder and test base -> Split Squat | Rolling Kimura
 
     Opponent goes elbow deep on leg . Lift Elbow -> Rolling Kimura
-### RDLR
-
-    V-Grip far leg, Lean and Leg Pummel -> Stacked
-
-    Scoop grip and Knee Across -> Kickout or Reverse Ashi
-
-    Toe Hold (counter deep spin) -> Reverse Ashi
 
 ### Split Squat
 
@@ -138,6 +143,14 @@ This is established from the cross hamstring step.  Squat low enough in the righ
     Lasso (Late): Stand and pull leg across with V-Grip . Leg pummel ouside leg in . Switch V-Grip to Cup grip on knee . Bring inside hand and right knee to floor . Head moves to block far shoulder
 
     Opp. Underhooks: Post hands on floor and raise hips . Backstep using instep method -> Cross Ashi
+
+### RDLR
+
+    Standard: V-Grip far leg, Lean and Leg Pummel -> Stacked
+
+    Standard: Scoop grip and Knee Across -> Kickout | Reverse Ashi
+
+    Spins-under (Late): Toe Hold -> Reverse Ashi
 
 ---
 
