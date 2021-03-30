@@ -117,9 +117,13 @@ The following symbols are used in the document:
 ---
 
     Spiral Calf Slice
+
     Far Spiral
+
     Aoki Lock
+
     Wrestler's Guillotine / Twister
+
     -> Back
 
 ---
@@ -128,9 +132,9 @@ The following symbols are used in the document:
 
 ---
 
-    Post on shoulder and test base -> Split Squat | Rolling Kimura
+    Standard: Post on shoulder and test base -> Split Squat | Rolling Kimura
 
-    Opponent goes elbow deep on leg . Lift Elbow -> Rolling Kimura
+    Opponent goes elbow deep on leg: Lift Elbow -> Rolling Kimura
 
 ### Split Squat
 
