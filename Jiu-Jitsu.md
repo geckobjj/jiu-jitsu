@@ -54,20 +54,19 @@ How to read this document
 
 ## Cross Ashi
 
----
-
 ### Passing Platform
 
-    Flat Opponent . Underhook and -> Knee Cut
-    Side Opponent . Single Collar Tie and Punch to Block Hip -> Knee Cut
-    Side Opponent -> Marcelo Step-over
-    Elbow Prop . Head over elbow -> T-Kimura
+    Flat Opponent: Underhook and -> Knee Cut
+
+    Side Opponent: Single Collar Tie and Punch to Block Hip -> Knee Cut
+
+    Side Opponent: -> Marcelo Step-over
+
+    Elbow Prop: Head over elbow -> T-Kimura
 
 ---
 
 ## Outside Ashi
-
----
 
     Heel Hook
     Toe Hold
@@ -134,7 +133,7 @@ This is established from the cross hamstring step.  Squat low enough in the righ
   
     Standard: Head pins far shoulder . Move arm from hip and knee to an underhook . Cross face + Underhook | Head(Bird) post + Underhook | -> Knee Cut
 
-    Lasso (Early): Straighten arm and turn shoulder down and away to block the lasso -> Standard
+    Lasso (Early): Straighten arm and turn shoulder down and away to block the lasso -> this:Standard
 
     Lasso (Late): Stand and pull leg across with V-Grip . Leg pummel ouside leg in . Switch V-Grip to Cup grip on knee . Bring inside hand and right knee to floor . Head moves to block far shoulder
 
