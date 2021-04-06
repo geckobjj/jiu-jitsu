@@ -48,11 +48,28 @@ The following symbols are used in the document:
 ### Low Knee Shield
 
 #### First Position
+
     Right arm goes behind partner's hips (hand on floor, elbow behind hip) .  Left leg posts out .  Head blocking shoulder .  Drop right hip to crush top leg . Sprawl right leg back . 
+
 ##### Next Steps
+
     Standard: Underhook with the right arm . Scoop the neck with left hand . Walk hips forward to pin their heel to butt when combined with the two grips . Pummel left leg inside to extend their bottom leg . Establish head and arm . Stack your hip on theirs . Cut your top knee down to their hip to complete the pass
 
     Blocks Underhook:  Grab their low trap with your right arm to secure position . Pass is now the same as above except left elbow goes behind their head and right arm punches inside the hip
+
+### Shuffle When Opp Cross Posts
+
+    Standard: Post left hand wide . Right hand goes to top hip . Left knee moves above opponent's knee . Rotate opp. hips vertical using right hand and left knee . Drop to your left hip to clear the knee shield and let left knee go beneath their leg . Re-center and prepare to remove hands
+
+#### From the shuffled position
+
+    Standard (hand above elbow): Inside bicep tie, lean forward (head over far shoulder) and pummel in for cross face . Lock 10 finger grip . Open up right elbow . Pummel head insice partner's left hand . Bring right elbow in and retract to get the underhook . Lean forward and insert left leg butterfly hook . Keep high elbows -> Knee cut
+
+    Standard (hand below elbow: attempted underhook): Switch to reverse cross face where your left hand is re-inforced wiht your head . Right elbow comes out and inserts inside partner's elbow . This will create the underhook
+
+    Passing straight to mount: (With underhook + crossface) Leave right butterfly hook in . Pummel left butterfly hook in as well . Move right knee across top hip . Extend body and knees to straighten their knees and then kip knees up high to mount
+
+    Can't achieve crossface: Sit to left hip . Shoot left hand to reverse underhook . Scoop grip . Slide left knee all the way to partner's far hip . If legs open, simply remove right leg in a backstep . Pass
 
 ---
 
@@ -147,6 +164,8 @@ This is established from the cross hamstring step.  Squat low enough in the righ
     Lasso (Late): Stand and pull leg across with V-Grip . Leg pummel ouside leg in . Switch V-Grip to Cup grip on knee . Bring inside hand and right knee to floor . Head moves to block far shoulder
 
     Opp. Underhooks: Post hands on floor and raise hips . Backstep using instep method -> Cross Ashi
+
+    Underhooks : Post hands on floor and raise hips . Shin into far hip and rotate them into smash/marcelo/throne position
 
 ### RDLR
 
